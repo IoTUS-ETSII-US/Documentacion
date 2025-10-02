@@ -1,9 +1,73 @@
-**ESTATUTOS DE LA ASOCIACIÓN INTERNET OF THINGS DE LA UNIVERSIDAD DE
-SEVILLA**
+# **ESTATUTOS DE LA ASOCIACIÓN INTERNET OF THINGS DE LA UNIVERSIDAD DE SEVILLA**
 
-**Capítulo I. Denominación y domicilio.**
+## Índice
 
-**Artículo 1.**
+### Capítulo I. Denominación y domicilio
+- [Artículo 1](#artículo-1)
+- [Artículo 2](#artículo-2) 
+- [Artículo 3](#artículo-3)
+- [Artículo 4](#artículo-4)
+- [Artículo 5](#artículo-5)
+
+### Capítulo II. Objetivos, actividades y medios
+- [Artículo 6](#artículo-6)
+- [Artículo 7](#artículo-7)
+
+### Capítulo III. Estructura organizativa
+- [Artículo 8](#artículo-8)
+- [Artículo 9](#artículo-9)
+- [Artículo 10](#artículo-10)
+- [Artículo 11](#artículo-11)
+- [Artículo 12](#artículo-12)
+- [Artículo 13](#artículo-13)
+- [Artículo 14](#artículo-14)
+- [Artículo 15](#artículo-15)
+- [Artículo 16](#artículo-16)
+- [Artículo 17](#artículo-17)
+- [Artículo 18](#artículo-18)
+- [Artículo 19](#artículo-19)
+
+### Capítulo IV. Cargos
+- [Artículo 20](#artículo-20)
+- [Artículo 21](#artículo-21)
+- [Artículo 22](#artículo-22)
+- [Artículo 23](#artículo-23)
+- [Artículo 24](#artículo-24)
+
+### Capítulo V. Relaciones con otras asociaciones
+- [Artículo 25](#artículo-25)
+- [Artículo 26](#artículo-26)
+
+### Capítulo VI. Socios
+- [Artículo 27](#artículo-27)
+- [Artículo 28](#artículo-28)
+- [Artículo 29](#artículo-29)
+- [Artículo 30](#artículo-30)
+- [Artículo 31](#artículo-31)
+
+### Capítulo VII. Financiación
+- [Artículo 32](#artículo-32)
+- [Artículo 33](#artículo-33)
+- [Artículo 34](#artículo-34)
+- [Artículo 35](#artículo-35)
+- [Artículo 36](#artículo-36)
+- [Artículo 37](#artículo-37)
+
+### Capítulo VIII. Disolución
+- [Artículo 38](#artículo-38)
+- [Artículo 39](#artículo-39)
+- [Artículo 40](#artículo-40)
+- [Artículo 41](#artículo-41)
+
+### Capítulo IX. Estado de emergencia
+- [Artículo 42](#artículo-42)
+- [Artículo 43](#artículo-43)
+
+---
+
+## **Capítulo I. Denominación y domicilio.**
+
+### **Artículo 1.**
 
 Se constituye en Sevilla la Asociación denominada Internet Of Things de
 la Universidad de Sevilla al amparo de lo previsto en el artículo 22 de
@@ -12,13 +76,13 @@ la Constitución española de 1978, lo establecido en la Ley Orgánica
 Autónoma Andaluza, el artículo 72.2 b) de los Estatutos de la
 Universidad de Sevilla y demás disposiciones legales.
 
-**Artículo 2.**
+### **Artículo 2.**
 
 El régimen de la Asociación se determinará por lo dispuesto en los
 presentes estatutos, si bien éstos podrán ser completados por un
 reglamento de funcionamiento interno.
 
-**Artículo 3.**
+### **Artículo 3.**
 
 El domicilio de la Asociación radica en la Escuela Técnica Superior de
 Ingeniería Informática de la Universidad de Sevilla, situada actualmente
@@ -26,20 +90,20 @@ en la Avda. Reina Mercedes s/n, 41012, Sevilla. La Asamblea General
 podrá acordar el cambio de domicilio, de lo que dará comunicación a la
 autoridad competente.
 
-**Artículo 4.**
+### **Artículo 4.**
 
 La duración de la Asociación será por tiempo indefinido, carece de ánimo
 de lucro y su ámbito es provincial.
 
-**Artículo 5.**
+### **Artículo 5.**
 
 En todo cuanto no esté previsto en los presentes Estatutos se aplicará
 la vigente Ley Orgánica 1/2002 de 22 marzo y demás disposiciones
 complementarias.
 
-**Capítulo II. Objetivos, actividades y medios.**
+## **Capítulo II. Objetivos, actividades y medios.**
 
-**Artículo 6.**
+### **Artículo 6.**
 
 La Asociación Universitaria tiene como fines principales:
 
@@ -61,7 +125,7 @@ e)  Aprendizaje práctico de programación de microcontroladores, sistemas
 
 f)  Divulgación y uso de sensores de ámbito general.
 
-**Artículo 7.**
+### **Artículo 7.**
 
 La Asociación Universitaria tiene como actividades principales:
 
@@ -81,14 +145,14 @@ e)  Creación de espacios en Internet que sirvan a los fines de esta
 f)  Otros proyectos que repercutan en la consecución de los fines de la
     Asociación
 
-**Capítulo III. Estructura organizativa.**
+## **Capítulo III. Estructura organizativa.**
 
-**Artículo 8. La Asamblea General: Composición.**
+### **Artículo 8. La Asamblea General: Composición.**
 
 La Asamblea General es el órgano supremo de la Asociación y está
 compuesta por todos los socios de la Asociación.
 
-**Artículo 9. La Asamblea General: Funcionamiento.**
+### **Artículo 9. La Asamblea General: Funcionamiento.**
 
 La Asamblea General se reunirá, al menos, una vez al año y con carácter
 extraordinario tantas veces como lo acuerde el presidente, la Junta
@@ -110,7 +174,7 @@ mismos derechos que los miembros en presencia física en la Asamblea,
 requieran, ...), y a juicio de la mayoría absoluta de los miembros de la
 Junta Directiva, será aceptada la asistencia por medios telemáticos.
 
-**Artículo 10. Convocatoria.**
+### **Artículo 10. Convocatoria.**
 
 Entre la convocatoria y el día señalado para la celebración de una
 sesión, Ordinaria o Extraordinaria, de la Asamblea General habrán de
@@ -127,7 +191,7 @@ válidamente constituidas cuando se alcance el quorum mínimo de un tercio
 del total de socios en primera convocatoria y de cualquier número de
 asociados en segunda convocatoria.
 
-**Artículo 11. La Asamblea General: Competencias.**
+### **Artículo 11. La Asamblea General: Competencias.**
 
 Son competencias de la Asamblea General:
 
@@ -140,7 +204,7 @@ c)  Modificar los Estatutos a propuesta de la Junta Directiva
 d)  Acordar a propuesta de la Junta Directiva y mediante referéndum, la
     disolución de la Asociación.
 
-**Artículo 12. Grupos de Trabajo.**
+### **Artículo 12. Grupos de Trabajo.**
 
 Son uno de los instrumentos de participación al alcance de todos los
 socios, y tienen como justificación principal, dinamizar la Asociación,
@@ -169,7 +233,7 @@ Trabajo, sus miembros se atienen a la Junta Directiva, la cual, una vez
 escuchada las alegaciones de las partes, podrán tomar acciones
 pertinentes.
 
-**Artículo 13. Secciones Técnicas.**
+### **Artículo 13. Secciones Técnicas.**
 
 Tienen como objetivo desarrollar y mantener de forma permanente, áreas
 específicas necesarias para la organización de la Asociación y para
@@ -180,7 +244,7 @@ Directiva y responsable ante ella. El coordinador podrá formar un equipo
 que le ayude en la realización de sus tareas. (Ejemplo: Mantenimiento de
 los servicios telemáticos de la Asociación).
 
-**Artículo 14. La Junta Directiva: Composición.**
+### **Artículo 14. La Junta Directiva: Composición.**
 
 Sin perjuicio de las facultades de la Asamblea General, la Asociación
 estará representada por una Junta Directiva, que estará formada por:
@@ -211,7 +275,7 @@ discrepancias entre aquellos que ostentan el cargo de esta forma, una
 comisión formada por los miembros restantes de la Junta Directiva
 lidiará entre ellos.
 
-**Artículo 15. Junta Directiva: Competencias.**
+### **Artículo 15. Junta Directiva: Competencias.**
 
 Es competencia de la Junta Directiva lo siguiente:
 
@@ -248,7 +312,7 @@ i)  Lectura y aprobación de las actas de la Junta Directiva anterior, de
     siguiente ejercicio y del plan de actividades, sin perjuicio de su
     aprobación posterior por la Asamblea General.
 
-**Artículo 16. Junta Directiva: Funcionamiento.**
+### **Artículo 16. Junta Directiva: Funcionamiento.**
 
 La Junta Directiva se reunirá al menos una vez cada seis meses, pudiendo
 convocarse la reunión de cualquiera de estas maneras:
@@ -262,19 +326,19 @@ b)  A petición de un tercio de los miembros de la Junta Directiva, de lo
 En todos los casos el plazo preceptivo de aviso será, como mínimo, de 7
 días naturales.
 
-**Artículo 17.**
+### **Artículo 17.**
 
 La asistencia a la Junta Directiva será personal o mediante cualquier
 medio telemático que acuerde válido por mayoría absoluta la Junta
 Directiva.
 
-**Artículo 18.**
+### **Artículo 18.**
 
 Los candidatos a la Junta Directiva serán elegidos democráticamente por
 mayor número de votos en asamblea general y tendrán una duración de dos
 años sin límite de elección.
 
-**Artículo 19. Sustitución en caso de vacantes.**
+### **Artículo 19. Sustitución en caso de vacantes.**
 
 -   En caso de vacante por cualquier motivo de un vocal de la Junta
     Directiva, el cargo vacante lo cubrirá la persona que ocupe el
@@ -295,9 +359,9 @@ sus miembros procederá a nombrar al sustituto propuesto por el
 Presidente. La duración del mandato será por el tiempo que resta hasta
 las próximas elecciones de la Junta Directiva.
 
-**Capítulo IV. Cargos.**
+## **Capítulo IV. Cargos.**
 
-**Artículo 20. El Presidente.**
+### **Artículo 20. El Presidente.**
 
 Al Presidente corresponde:
 
@@ -323,7 +387,7 @@ f)  En el caso de empate en votaciones de acuerdo de las Juntas,
 g)  Evaluar periódicamente el trabajo realizado por sus colaboradores y
     por la Asociación.
 
-**Artículo 21. El Vicepresidente.**
+### **Artículo 21. El Vicepresidente.**
 
 Corresponderá al Vicepresidente realizar las funciones del Presidente en
 los casos de estar vacante el cargo por ausencia o enfermedad, pudiendo
@@ -331,7 +395,7 @@ actuar también en representación de la Asociación en aquellos supuestos
 en que así se decida por la Junta Directiva o Asamblea General, según
 los acuerdos.
 
-**Artículo 22. El Tesorero.**
+### **Artículo 22. El Tesorero.**
 
 El tesorero tendrá bajo su responsabilidad el funcionamiento económico
 de la Asociación, y lo ejecutará:
@@ -355,7 +419,7 @@ f)  Redactando los presupuestos, los estados de cuentas y los balances.
 
 g)  Cualquier otra función inherente a su condición de Tesorero.
 
-**Artículo 23. El Secretario.**
+### **Artículo 23. El Secretario.**
 
 El secretario tendrá bajo su responsabilidad el funcionamiento
 administrativo de la Asociación, y lo ejecutará:
@@ -396,7 +460,7 @@ Vicepresidente, y en ausencia de éste por el Vocal de mayor antigüedad
 dentro de la asociación, de haber dos inscritos en la misma fecha se
 elegirá alfabéticamente.
 
-**Artículo 24. Los Vocales.**
+### **Artículo 24. Los Vocales.**
 
 Los Vocales se consideran en la Junta Directiva, representantes de los
 intereses de los asociados, por lo que tendrán voz y voto en las mismas.
@@ -409,9 +473,9 @@ El derecho a voto de un vocal se retirará si se considera que este ha
 dejado de representar los intereses de los asociados o promueve una
 conducta que no beneficie a la Asociación.
 
-**Capítulo V. Relaciones con otras asociaciones.**
+## **Capítulo V. Relaciones con otras asociaciones.**
 
-**Artículo 25.**
+### **Artículo 25.**
 
 La Junta Directiva podrá acordar:
 
@@ -420,21 +484,21 @@ La Junta Directiva podrá acordar:
 2.  La aprobación de los acuerdos que liguen a la Asociación con las
     llamadas Asociaciones Vinculadas o la anulación de dichos acuerdos.
 
-**Artículo 26.**
+### **Artículo 26.**
 
 Los acuerdos descritos en el artículo 25, serán adoptados siempre por
 mayoría de cuatro quintos de miembros de la Junta Directiva, y las
 Asociaciones afectadas podrán ser de ámbito local, estatal o
 internacional siempre que mantengan la existencia de la Asociación.
 
-**Capítulo VI. Socios.**
+## **Capítulo VI. Socios.**
 
-**Artículo 27. Admisión.**
+### **Artículo 27. Admisión.**
 
 Para adquirir la condición de asociado el interesado deberá ser miembro
 de la Universidad de Sevilla.
 
-**Artículo 28. Pérdida de la condición de asociado.**
+### **Artículo 28. Pérdida de la condición de asociado.**
 
 La pérdida de la condición de socio se puede producir por una o varias
 de las condiciones siguientes:
@@ -461,167 +525,165 @@ de las condiciones siguientes:
     posterior recurso, debiéndose dar cumplimiento de su decisión
     inmediatamente, previa comunicación al interesado.
 
-[**Artículo 29. Derechos del asociado.**]{.mark}
+### **Artículo 29. Derechos del asociado.**
 
-[Constituyen derechos de todos los miembros de la Asociación, a
-excepción de los miembros egresados:]{.mark}
+Constituyen derechos de todos los miembros de la Asociación, a
+excepción de los miembros egresados:
 
--   [Formar parte de las Asambleas Generales con voz y, siempre que sean
-    mayores de edad, con voto.]{.mark}
+-   Formar parte de las Asambleas Generales con voz y, siempre que sean
+    mayores de edad, con voto.
 
--   [Pueden ser elegidos miembros de la Junta Directiva de la
-    Asociación, siempre que sean mayores de edad.]{.mark}
+-   Pueden ser elegidos miembros de la Junta Directiva de la
+    Asociación, siempre que sean mayores de edad.
 
--   [Disfrutar de todos los beneficios de la Asociación.]{.mark}
+-   Disfrutar de todos los beneficios de la Asociación.
 
--   [Pedir y recibir información relativa a la Asociación.]{.mark}
+-   Pedir y recibir información relativa a la Asociación.
 
--   [Constituir libremente Grupos de Trabajo, dentro de los fines de la
-    Asociación.]{.mark}
+-   Constituir libremente Grupos de Trabajo, dentro de los fines de la
+    Asociación.
 
--   [Participar en las actividades que organice la Asociación.]{.mark}
+-   Participar en las actividades que organice la Asociación.
 
--   [Recurrir ante la Asamblea General, los acuerdos de la Junta
+-   Recurrir ante la Asamblea General, los acuerdos de la Junta
     Directiva que, en su opinión, sean contrarios a los presentes
-    Estatutos o lesionen los intereses de la Asociación.]{.mark}
+    Estatutos o lesionen los intereses de la Asociación.
 
-**[Artículo 30.]{.mark}**
+### **Artículo 30.**
 
-[Deberes del asociado Constituyen deberes de los miembros de la
-Asociación:]{.mark}
+Deberes del asociado Constituyen deberes de los miembros de la
+Asociación:
 
--   [Respetar los presentes Estatutos y el Reglamento de Funcionamiento
-    Interno que determine la Asociación.]{.mark}
+-   Respetar los presentes Estatutos y el Reglamento de Funcionamiento
+    Interno que determine la Asociación.
 
--   [Desempeñar y asistir a las obligaciones del cargo para el que fue
-    elegido.]{.mark}
+-   Desempeñar y asistir a las obligaciones del cargo para el que fue
+    elegido.
 
-**[Artículo 31. Miembro egresado.]{.mark}**
+### **Artículo 31. Miembro egresado.**
 
-[Los miembros egresados son aquellos que en el transcurso de su
+Los miembros egresados son aquellos que en el transcurso de su
 pertenencia a la asociación dejan de ser miembros de la comunidad de la
 Universidad de Sevilla. A estos se les presenta oportunidad de ostentar
 el título de miembro egresado. Este está sujeto a la toda la normativa
-vigente aplicable para asociados a excepción del Artículo 29.]{.mark}
+vigente aplicable para asociados a excepción del Artículo 29.
 
-[Los derechos de los miembros egresados son:]{.mark}
+Los derechos de los miembros egresados son:
 
--   [Participación en asambleas Generales sin derecho de voto.]{.mark}
+-   Participación en asambleas Generales sin derecho de voto.
 
--   [Pedir y recibir información relativa a la Asociación.]{.mark}
+-   Pedir y recibir información relativa a la Asociación.
 
--   [Participar en las actividades que organice la Asociación.]{.mark}
+-   Participar en las actividades que organice la Asociación.
 
--   [Recurrir ante la Asamblea General, los acuerdos de la Junta
+-   Recurrir ante la Asamblea General, los acuerdos de la Junta
     Directiva que, en su opinión, sean contrarios a los presentes
-    Estatutos o lesionen los intereses de la Asociación.]{.mark}
+    Estatutos o lesionen los intereses de la Asociación.
 
--   [Constituir libremente Grupos de Trabajo, dentro de los fines de la
-    Asociación.]{.mark}
+-   Constituir libremente Grupos de Trabajo, dentro de los fines de la
+    Asociación.
 
-**[Capítulo VII. Financiación.]{.mark}**
+## **Capítulo VII. Financiación.**
 
-**[Artículo 32.]{.mark}**
+### **Artículo 32.**
 
-[]{.mark}
-
-[La Asociación como sujeto de derecho y para el cumplimiento de sus
+La Asociación como sujeto de derecho y para el cumplimiento de sus
 fines, tiene responsabilidad jurídica y titularidad de derechos y
 obligaciones para toda clase de actos y contratos de tráfico
-civil.]{.mark}
+civil.
 
-**[Artículo 33.]{.mark}**
+### **Artículo 33.**
 
-[La Asociación podrá tener patrimonio propio. Funcionarán en Régimen de
-Presupuesto Anual. Su patrimonio fundacional es de 0 €.]{.mark}
+La Asociación podrá tener patrimonio propio. Funcionarán en Régimen de
+Presupuesto Anual. Su patrimonio fundacional es de 0 €.
 
-**[Artículo 34.]{.mark}**
+### **Artículo 34.**
 
-[Los medios económicos para atender sus fines serán los
-siguientes:]{.mark}
+Los medios económicos para atender sus fines serán los
+siguientes:
 
--   [Las aportaciones voluntarias]{.mark}
+-   Las aportaciones voluntarias
 
--   [Los ingresos del patrimonio que pueda poseer.]{.mark}
+-   Los ingresos del patrimonio que pueda poseer.
 
--   [Los donativos y/o subvenciones públicas o privadas que le puedan
-    ser concedidas.]{.mark}
+-   Los donativos y/o subvenciones públicas o privadas que le puedan
+    ser concedidas.
 
--   [Por acuerdos realizados con empresas y/o instituciones.]{.mark}
+-   Por acuerdos realizados con empresas y/o instituciones.
 
--   [Herencias y legados con que pueda ser favorecida.]{.mark}
+-   Herencias y legados con que pueda ser favorecida.
 
--   [Otros que pudieran ingresar respetando el carácter y los fines de
-    la asociación.]{.mark}
+-   Otros que pudieran ingresar respetando el carácter y los fines de
+    la asociación.
 
-**[Artículo 35.]{.mark}**
+### **Artículo 35.**
 
-[La Junta directiva confeccionará todos los años un proyecto de
+La Junta directiva confeccionará todos los años un proyecto de
 presupuesto que presentará a la aprobación de la Asamblea General. Así
 mismo, presentará la liquidación de cuentas del año anterior para su
-aprobación.]{.mark}
+aprobación.
 
-**[Artículo 36.]{.mark}**
+### **Artículo 36.**
 
-[El límite del presupuesto anual se estima en el momento de la fundación
+El límite del presupuesto anual se estima en el momento de la fundación
 en 50.000 Euros, ampliable por la Asamblea General. El ejercicio
 comenzará el 1 de Octubre y concluirá el 30 de Septiembre del año
-siguiente.]{.mark}
+siguiente.
 
-**[Artículo 37.]{.mark}**
+### **Artículo 37.**
 
-[Todo lo relativo a la infraestructura de la organización y que no se
+Todo lo relativo a la infraestructura de la organización y que no se
 considere en los presentes Estatutos, podrá ser regulado en el
-Reglamento de Funcionamiento interno.]{.mark}
+Reglamento de Funcionamiento interno.
 
-**[Capítulo VIII. Disolución.]{.mark}**
+## **Capítulo VIII. Disolución.**
 
-**[Artículo 38.]{.mark}**
+### **Artículo 38.**
 
-[La Asociación se disolverá debido a las siguientes causas:]{.mark}
+La Asociación se disolverá debido a las siguientes causas:
 
--   [A propuesta de un mínimo de tres cuartos de los miembros que
+-   A propuesta de un mínimo de tres cuartos de los miembros que
     pertenezcan a la Junta Directiva, propuesta que deberá ser aprobada
     por tres cuartos de los asistentes a la Asamblea General
     Extraordinaria. El acuerdo será válido siempre que los asistentes
     superen en la segunda convocatoria un mínimo del 25% de los socios y
     sin perjuicio de que el Reglamento de Funcionamiento Interno
-    establezca un porcentaje mayor.]{.mark}
+    establezca un porcentaje mayor.
 
--   [Por sentencia judicial.]{.mark}
+-   Por sentencia judicial.
 
-**[Artículo 39.]{.mark}**
+### **Artículo 39.**
 
-[Acordada o decretada la disolución de la Asociación, la Asamblea
+Acordada o decretada la disolución de la Asociación, la Asamblea
 General nombrará una Comisión Liquidadora compuesta al menos por tres
-miembros elegidos por la Asamblea General Extraordinaria.]{.mark}
+miembros elegidos por la Asamblea General Extraordinaria.
 
-**[Artículo 40.]{.mark}**
+### **Artículo 40.**
 
-[La Comisión Liquidadora procederá a efectuar el inventario de
+La Comisión Liquidadora procederá a efectuar el inventario de
 valoración de los bienes de la Asociación, y a su vigente para este
 supuesto. Deberá dar cuenta periódicamente de su gestión, ante la Junta
-Directiva.]{.mark}
+Directiva.
 
-**[Artículo 41.]{.mark}**
+### **Artículo 41.**
 
-[El activo disponible, si lo hubiera, se destinará al Departamento de
+El activo disponible, si lo hubiera, se destinará al Departamento de
 Tecnología Electrónica de la Escuela Técnica Superior de Ingeniería
 Informática de la Universidad de Sevilla, en supuesto de que esto no
 fuera posible se destinará a la Escuela Técnica Superior de Ingeniería
 Informática de la Universidad de Sevilla y en caso de no ser posible a
-la Universidad de Sevilla.]{.mark}
+la Universidad de Sevilla.
 
-**Capítulo IX. Estado de emergencia.**
+## **Capítulo IX. Estado de emergencia.**
 
-**Artículo 41.**
+### **Artículo 42.**
 
 En caso de que algún organismo gubernamental declarase el estado de
 emergencia, ya sea sanitario o de cualquier índole, será declarado el
 presidente como responsable del cumplimiento de las medidas establecidas
 en la legislación vigente en ese momento.
 
-**Artículo 42.**
+### **Artículo 43.**
 
 Los asociados estarán obligados a cumplir la normativa legal vigente en
 el momento, teniendo derecho a desarrollar las actividades normales
