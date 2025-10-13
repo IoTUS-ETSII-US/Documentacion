@@ -164,7 +164,7 @@ de la Junta tiene prioridad bajo otro uso del equipo.
 
 Todas las comunicaciones con los asociados se harán mediante mensajes de
 correo electrónico al indicado en el registro de miembros o mensajes en
-el grupo de Telegram oficial.
+la comunidad de WhatsApp oficial.
 
 Sevilla, con fecha \_\_\_ de \_\_\_\_\_\_\_\_\_\_\_\_\_ de \_\_\_\_\_\_
 
