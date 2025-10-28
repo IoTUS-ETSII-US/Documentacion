@@ -224,7 +224,7 @@ miembros del grupo, y el nombre de un segundo responsable del grupo, si
 fuese posible. Los coordinadores podrán fijar objetivos, siempre dentro
 de los fines de la Asociación y plazos para la consecución de estos.
 Para la total constitución del grupo de trabajo, este ha de ser validado
-por algún miembro de la administración designado para esta labor o por
+por algún miembro de la administración designado para esta labor siendo por defecto el vicepresidente, o por
 el presidente, todo esto tras haber presentado la documentación que se
 haya establecido necesaria para la constitución del grupo de trabajo.
 
@@ -259,7 +259,7 @@ estará representada por una Junta Directiva, que estará formada por:
 
 5.  6 vocales. Dicho número podrá ser aumentado o disminuido, para
     adecuarlo a las circunstancias tales como las variaciones en el
-    número de socios, necesidades y objetivos de la Asociación, ...
+    número de socios, necesidades y objetivos de la Asociación ... 
 
 Todos ellos han de ser socios de la Asociación.
 
@@ -393,11 +393,11 @@ Corresponderá al Vicepresidente realizar las funciones del Presidente en
 los casos de estar vacante el cargo por ausencia o enfermedad, pudiendo
 actuar también en representación de la Asociación en aquellos supuestos
 en que así se decida por la Junta Directiva o Asamblea General, según
-los acuerdos.
+los acuerdos. Asimismo se encargará de coordinar los grupos de trabajos y si fuera necesario, crearlos o disolverlos.
 
 ### **Artículo 22. El Tesorero.**
 
-El tesorero tendrá bajo su responsabilidad el funcionamiento económico
+El tesorero (o co-tesoreros) tendrá bajo su responsabilidad el funcionamiento económico
 de la Asociación, y lo ejecutará:
 
 a)  Teniendo bajo su custodia todos los fondos de la Asociación.
@@ -419,9 +419,11 @@ f)  Redactando los presupuestos, los estados de cuentas y los balances.
 
 g)  Cualquier otra función inherente a su condición de Tesorero.
 
+
+
 ### **Artículo 23. El Secretario.**
 
-El secretario tendrá bajo su responsabilidad el funcionamiento
+El secretario (o co-secretarios) tendrá bajo su responsabilidad el funcionamiento
 administrativo de la Asociación, y lo ejecutará:
 
 a)  Asistir a las sesiones de la Junta Directiva y Asamblea General,
@@ -459,6 +461,8 @@ alguna causa justificada, el Secretario será sustituido por el
 Vicepresidente, y en ausencia de éste por el Vocal de mayor antigüedad
 dentro de la asociación, de haber dos inscritos en la misma fecha se
 elegirá alfabéticamente.
+
+
 
 ### **Artículo 24. Los Vocales.**
 
@@ -554,8 +558,8 @@ excepción de los miembros egresados:
 Deberes del asociado Constituyen deberes de los miembros de la
 Asociación:
 
--   Respetar los presentes Estatutos y el Reglamento de Funcionamiento
-    Interno que determine la Asociación.
+-   Respetar los presentes Estatutos,el Reglamento de Funcionamiento
+    Interno y el Código de Conducta que determine la Asociación.
 
 -   Desempeñar y asistir a las obligaciones del cargo para el que fue
     elegido.
