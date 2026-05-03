@@ -1,22 +1,20 @@
 # Código de Conducta
-[Introducción: [1](#introducción)](#introducción)
+[1. Introducción](#introducción)
 
-[Conducta esperada: [1](#conducta-esperada)](#conducta-esperada)
+[2. Conducta esperada](#conducta-esperada)
 
-[Conducta no aceptable:
-[1](#conducta-no-aceptable)](#conducta-no-aceptable)
+[3. Conducta no aceptable](#conducta-no-aceptable)
 
-[Alcance: [2](#alcance)](#alcance)
+[3. Alcance](#alcance)
 
-[Aplicación de las responsabilidades:
-[2](#aplicación-de-las-responsabilidades)](#aplicación-de-las-responsabilidades)
+[4. Aplicación de las responsabilidades:
+](#aplicación-de-las-responsabilidades)
 
-[Consecuencias: [2](#consecuencias)](#consecuencias)
+[5. Consecuencias](#consecuencias)
 
-[Moderación: [3](#moderación)](#moderación)
+[6. Moderación](#moderación)
 
-[Licencias y atribución:
-[3](#licencias-y-atribución)](#licencias-y-atribución)
+[7. Licencias y atribución](#licencias-y-atribución)
 
 ## Introducción: 
 
