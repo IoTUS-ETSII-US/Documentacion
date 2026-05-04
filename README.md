@@ -1,3 +1,10 @@
-# Documentacion
-Aquí es donde se guarda la versión en markdown de todos los documentos legales, incluyendo los estatutos, codigos de conducta....
+# Documentacion Legal de IOTUS
+Aquí es donde se guarda la versión en markdown de todos los documentos legales, incluyendo los estatutos, codigos de conducta... 
+
+## Estructura del directorio
+
+
+
+## Firma y verificación 
+
 
