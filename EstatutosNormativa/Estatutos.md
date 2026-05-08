@@ -69,12 +69,10 @@
 
 ### **Artículo 1.**
 
-Se constituye en Sevilla la Asociación denominada Internet Of Things de
-la Universidad de Sevilla (IoTUS) al amparo de lo previsto en el artículo 22 de
+Se constituye en Sevilla la Asociación denominada Internet Of Things Universidad de Sevilla (IoTUS) al amparo de lo previsto en el artículo 22 de
 la Constitución española de 1978, lo establecido en la Ley Orgánica
 1/2002 de 22 de marzo, la ley 4/2006 de 23 de junio de la Comunidad
-Autónoma Andaluza, el artículo 72.2 b) de los Estatutos de la
-Universidad de Sevilla y demás disposiciones legales.
+Autónoma Andaluza y demás disposiciones legales.
 
 ### **Artículo 2.**
 
@@ -172,7 +170,7 @@ Siempre que la tecnología garantice por medios telemáticos
 mismos derechos que los miembros en presencia física en la Asamblea,
 (autentificación, secreto del voto en aquellas votaciones que lo
 requieran, ...), y a juicio de la mayoría absoluta de los miembros de la
-Junta Directiva, será aceptada la asistencia por medios telemáticos.
+Junta Directiva, será aceptada la asistencia por medios telemáticos. Estos medios serán detallados en la normativa interna, a falta de una normativa interna que lo regule, se emplearán las directrices establecidas según el estado español.
 
 ### **Artículo 10. Convocatoria.**
 
@@ -199,7 +197,7 @@ a)  Elegir a los miembros de la Junta Directiva.
 
 b)  Aprobar el estado de cuentas del ejercicio anterior.
 
-c)  Modificar los Estatutos a propuesta de la Junta Directiva
+c)  Modificar los Estatutos a propuesta de la Junta Directiva.
 
 d)  Acordar a propuesta de la Junta Directiva y mediante referéndum, la
     disolución de la Asociación.
@@ -269,7 +267,7 @@ presidente, vicepresidente son los únicos cargos que no se podrán
 recoger en una misma persona. Los vocales serán también independientes a
 los otros cargos, no pudiendo así ser vocal y ostentar otro cargo.
 
-El cargo de presidente se podrá otorgar a dos personas que compartirán
+El cargo de presidente, se podrá otorgar a dos personas que compartirán
 derecho y deberes del cargo al 50% cada uno. En caso de que haya
 discrepancias entre aquellos que ostentan el cargo de esta forma, una
 comisión formada por los miembros restantes de la Junta Directiva
@@ -330,7 +328,7 @@ días naturales.
 
 La asistencia a la Junta Directiva será personal o mediante cualquier
 medio telemático que acuerde válido por mayoría absoluta la Junta
-Directiva.
+Directiva. Estos medios serán detallados en la normativa interna, a falta de una normativa interna que lo regule, se emplearán las directrices establecidas según el estado español.
 
 ### **Artículo 18.**
 
@@ -397,7 +395,7 @@ los acuerdos. Asimismo se encargará de coordinar los grupos de trabajos y si fu
 
 ### **Artículo 22. El Tesorero.**
 
-El tesorero (o co-tesoreros) tendrá bajo su responsabilidad el funcionamiento económico
+El tesorero tendrá bajo su responsabilidad el funcionamiento económico
 de la Asociación, y lo ejecutará:
 
 a)  Teniendo bajo su custodia todos los fondos de la Asociación.
@@ -421,9 +419,10 @@ g)  Cualquier otra función inherente a su condición de Tesorero.
 
 
 
+
 ### **Artículo 23. El Secretario.**
 
-El secretario (o co-secretarios) tendrá bajo su responsabilidad el funcionamiento
+El secretario tendrá bajo su responsabilidad el funcionamiento
 administrativo de la Asociación, y lo ejecutará:
 
 a)  Asistir a las sesiones de la Junta Directiva y Asamblea General,
@@ -431,7 +430,7 @@ a)  Asistir a las sesiones de la Junta Directiva y Asamblea General,
 
 b)  Efectuar las convocatorias de las sesiones de la Junta Directiva y
     Asamblea, por orden del Presidente, así como las citaciones de los
-    miembros de aquélla y socios de ésta.
+    miembros de aquella y socios de esta.
 
 c)  Dar cuenta inmediata al Presidente de la solicitud de convocatoria
     efectuada por los socios en la forma prevista en el artículo 9º de
@@ -500,8 +499,7 @@ internacional siempre que mantengan la existencia de la Asociación.
 ### **Artículo 27. Admisión.**
 
 Para adquirir la condición de asociado el interesado deberá ser miembro
-de la Universidad de Sevilla, incluyendo a estudiantes, personal docente e investigador (PDI) 
-y personal de administración y servicios (PAS), procedentes de programas de intercambio académico de carácter nacional e internacional.
+de la Universidad de Sevilla, incluyendo a estudiantes, personal docente e investigador (PDI) y personal de administración y servicios (PAS), procedentes de programas de intercambio académico de carácter nacional e internacional.
 
 ### **Artículo 28. Pérdida de la condición de asociado.**
 
@@ -557,9 +555,8 @@ excepción de los miembros egresados:
     Directiva que, en su opinión, sean contrarios a los presentes
     Estatutos o lesionen los intereses de la Asociación.
 
-### **Artículo 30.**
-
-Deberes del asociado Constituyen deberes de los miembros de la
+### **Artículo 30.Deberes del asociado **
+Constituyen deberes de los miembros de la
 Asociación:
 
 -   Respetar los presentes Estatutos,el Reglamento de Funcionamiento
@@ -610,7 +607,7 @@ Presupuesto Anual. Su patrimonio fundacional es de 0 €.
 Los medios económicos para atender sus fines serán los
 siguientes:
 
--   Las aportaciones voluntarias
+-   Las aportaciones voluntarias.
 
 -   Los ingresos del patrimonio que pueda poseer.
 

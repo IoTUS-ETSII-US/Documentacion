@@ -30,7 +30,7 @@ comportamiento esperado como inaceptable.
 
 ## Conducta esperada: 
 
-A modo de ejemplo, se proporciona una lista comportamiento esperado:
+A modo de ejemplo, se proporciona una lista de comportamiento esperado:
 
 -   Utilizar un lenguaje agradable e inclusivo.
 
