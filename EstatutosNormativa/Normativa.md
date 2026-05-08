@@ -30,9 +30,7 @@ socios de la entidad.
 # **CAPÍTULO II. DEL INGRESO DE SOCIOS.**
 
 ## **Artículo 4.**
-
-Para el ingreso de nuevos socios en la Asociación será indispensable la
-entrega de la carta de pago de la Universidad de Sevilla, una vez
+Para el ingreso de nuevos socios en la Asociación será indispensable la entrega de la carta de pago de la Universidad de Sevilla o, en el caso de los nuevos socios procedentes de programas de intercambio, el documento correspondiente que acredite su admisión, una vez
 entregada será exclusivamente un miembro de la Junta Directiva quien
 procederá a darlo de alta en el libro de registro de socios de la
 asociación. Quedan exentos de la entrega de carta de pagos aquellos que
@@ -48,8 +46,8 @@ General sobre las altas y bajas de socios producidas en dicho periodo.
 ## **Artículo 6.**
 
 Se informará a los nuevos asociados, en el momento de su registro, de la
-existencia de unos Estatutos y de una Normativa Interna de
-Funcionamiento que todos los socios deben de cumplir para la correcta
+existencia de unos Estatutos, de una Normativa Interna de
+Funcionamiento y de un Código de Conducta que todos los socios deben de cumplir para la correcta
 convivencia y articulación de la Asociación.
 
 # **CAPÍTULO VI. DE LA INFRAESTRUCTURA DE LA ASOCIACIÓN.**
