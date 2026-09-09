@@ -634,7 +634,7 @@ de las leyes establecidas en la legislación vigente en ese momento.
 
 ## **Disposiciones adicionales**
 ### **Primera**
-Todas las denominaciones que en los presentes Estatutos se efectúan en género masculino (Presidente, Vicepresidente, Secretario, Tesorero, Vocal, socio, asociado, miembro, etc.) se entenderán realizadas de forma genérica, refiriéndose indistintamente a personas de cualquie género.
+Todas las denominaciones que en los presentes Estatutos se efectúan en género masculino (Presidente, Vicepresidente, Secretario, Tesorero, Vocal, socio, asociado, miembro, etc.) se entenderán realizadas de forma genérica, refiriéndose indistintamente a personas de cualquier género.
 ### **Segunda**
 En toda mención en los presentes Estatutos a la comunicación por escrito
 se entienden válidos tanto la comunicación tradicional, como el uso del correo
