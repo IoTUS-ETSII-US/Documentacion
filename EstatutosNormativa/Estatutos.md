@@ -95,7 +95,7 @@ de presidente y secretario de la Asamblea serán ocupados por los
 correspondientes cargos de la Junta Directiva.
 
 La asistencia a la Asamblea General será personal o por representación
-legal o voluntaria bastando acreditar ésta un escrito o documento
+legal o voluntaria bastando acreditar ésta mediante un escrito o documento
 firmado por el socio y entregado a un asistente de su confianza,
 pudiendo contener instrucciones precisas que serán leídas al inicio de
 la Asamblea.
@@ -182,7 +182,7 @@ los servicios telemáticos de la Asociación).
 Sin perjuicio de las facultades de la Asamblea General, la Asociación
 estará representada por una Junta Directiva, que estará formada por:
 
-1.  Un Presidente
+1.  Uno o dos Presidentes.
 
 2.  Un Vicepresidente
 
@@ -202,7 +202,7 @@ presidente y vicepresidente son los únicos cargos que no se podrán
 recoger en una misma persona. Los vocales serán también independientes de
 los otros cargos, no pudiendo así ser vocal y ostentar otro cargo.
 
-El cargo de presidente se podrá otorgar a dos personas que compartirán
+El cargo de presidente de forma excepcional, bajo consentimiento de la junta directiva se podrá otorgar a dos personas que compartirán
 derechos y deberes del cargo al 50% cada uno. En caso de que haya
 discrepancias entre aquellos que ostentan el cargo de esta forma, una
 comisión formada por los miembros restantes de la Junta Directiva
