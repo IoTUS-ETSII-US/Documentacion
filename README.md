@@ -17,10 +17,6 @@ Los documentos están organizados en tres carpetas principales:
 
 > **Nota:** al renombrar cualquier archivo, usar siempre `git mv nombre-antiguo.md nombre-nuevo.md` en lugar de renombrarlo directamente desde el explorador de archivos, para que Git conserve el historial del fichero.
 
-Los archivos en Markdown siguen el formato de nombre `vX.Y_AAAA-MM-DD_nombre-del-documento.md`, donde:
-- `vX.Y` es el número de versión.
-- `AAAA-MM-DD` es la fecha de aprobación del documento.
-- `nombre-del-documento` es un identificador descriptivo en minúsculas con guiones.
 
 ## Firma y verificación
 
