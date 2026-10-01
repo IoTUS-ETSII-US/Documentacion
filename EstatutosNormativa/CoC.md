@@ -7,8 +7,7 @@
 
 [3. Alcance](#alcance)
 
-[4. Aplicación de las responsabilidades:
-](#aplicación-de-las-responsabilidades)
+[4. Aplicación de las responsabilidades:](#aplicación-de-las-responsabilidades)
 
 [5. Consecuencias](#consecuencias)
 
@@ -31,7 +30,7 @@ comportamiento esperado como inaceptable.
 
 ## Conducta esperada: 
 
-A modo de ejemplo, se proporciona una lista comportamiento esperado:
+A modo de ejemplo, se proporciona una lista de comportamiento esperado:
 
 -   Utilizar un lenguaje agradable e inclusivo.
 
@@ -143,7 +142,7 @@ interno  y los estatutos de IoTUS.
 Además de los canales proporcionados por la Universidad de Sevilla para
 la prevención del acoso, las instancias de comportamiento abusivo,
 acosador o inaceptable de otro modo podrán ser reportadas al vocal
-responsable del cumplimiento o a la directiva a través de mensajería instantánea,correo electrónico o de vorma verbal (siendo necesario en este caso dejar constancia por escrito de la incidencia ). Todas las quejas serán evaluadas e investigadas de
+responsable del cumplimiento o a la directiva a través de mensajería instantánea, correo electrónico o de forma verbal (siendo necesario en este caso dejar constancia por escrito de la incidencia). Todas las quejas serán evaluadas e investigadas de
 una manera puntual y justa.
 
 Todos los administradores de la comunidad están obligados a respetar la

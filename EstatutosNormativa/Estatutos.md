@@ -1,86 +1,19 @@
 # **ESTATUTOS DE LA ASOCIACIÓN INTERNET OF THINGS DE LA UNIVERSIDAD DE SEVILLA**
 
-## Índice
-
-### Capítulo I. Denominación y domicilio
-- [Artículo 1](#artículo-1)
-- [Artículo 2](#artículo-2) 
-- [Artículo 3](#artículo-3)
-- [Artículo 4](#artículo-4)
-- [Artículo 5](#artículo-5)
-
-### Capítulo II. Objetivos, actividades y medios
-- [Artículo 6](#artículo-6)
-- [Artículo 7](#artículo-7)
-
-### Capítulo III. Estructura organizativa
-- [Artículo 8](#artículo-8)
-- [Artículo 9](#artículo-9)
-- [Artículo 10](#artículo-10)
-- [Artículo 11](#artículo-11)
-- [Artículo 12](#artículo-12)
-- [Artículo 13](#artículo-13)
-- [Artículo 14](#artículo-14)
-- [Artículo 15](#artículo-15)
-- [Artículo 16](#artículo-16)
-- [Artículo 17](#artículo-17)
-- [Artículo 18](#artículo-18)
-- [Artículo 19](#artículo-19)
-
-### Capítulo IV. Cargos
-- [Artículo 20](#artículo-20)
-- [Artículo 21](#artículo-21)
-- [Artículo 22](#artículo-22)
-- [Artículo 23](#artículo-23)
-- [Artículo 24](#artículo-24)
-
-### Capítulo V. Relaciones con otras asociaciones
-- [Artículo 25](#artículo-25)
-- [Artículo 26](#artículo-26)
-
-### Capítulo VI. Socios
-- [Artículo 27](#artículo-27)
-- [Artículo 28](#artículo-28)
-- [Artículo 29](#artículo-29)
-- [Artículo 30](#artículo-30)
-- [Artículo 31](#artículo-31)
-
-### Capítulo VII. Financiación
-- [Artículo 32](#artículo-32)
-- [Artículo 33](#artículo-33)
-- [Artículo 34](#artículo-34)
-- [Artículo 35](#artículo-35)
-- [Artículo 36](#artículo-36)
-- [Artículo 37](#artículo-37)
-
-### Capítulo VIII. Disolución
-- [Artículo 38](#artículo-38)
-- [Artículo 39](#artículo-39)
-- [Artículo 40](#artículo-40)
-- [Artículo 41](#artículo-41)
-
-### Capítulo IX. Estado de emergencia
-- [Artículo 42](#artículo-42)
-- [Artículo 43](#artículo-43)
-
----
-
 ## **Capítulo I. Denominación y domicilio.**
 
 ### **Artículo 1.**
 
-Se constituye en Sevilla la Asociación denominada Internet Of Things de
-la Universidad de Sevilla al amparo de lo previsto en el artículo 22 de
+Se constituye en Sevilla la Asociación denominada Internet of Things de la Universidad de Sevilla (IoTUS) al amparo de lo previsto en el artículo 22 de
 la Constitución española de 1978, lo establecido en la Ley Orgánica
-1/2002 de 22 de marzo, la ley 4/2006 de 23 de junio de la Comunidad
-Autónoma Andaluza, el artículo 72.2 b) de los Estatutos de la
-Universidad de Sevilla y demás disposiciones legales.
+1/2002 de 22 de marzo, la Ley 4/2006 de 23 de junio de la Comunidad
+Autónoma Andaluza y demás disposiciones legales.
 
 ### **Artículo 2.**
 
 El régimen de la Asociación se determinará por lo dispuesto en los
-presentes estatutos, si bien éstos podrán ser completados por un
-reglamento de funcionamiento interno.
+presentes Estatutos, si bien éstos podrán ser completados por una
+normativa de funcionamiento interno y un código de conducta.
 
 ### **Artículo 3.**
 
@@ -98,7 +31,7 @@ de lucro y su ámbito es provincial.
 ### **Artículo 5.**
 
 En todo cuanto no esté previsto en los presentes Estatutos se aplicará
-la vigente Ley Orgánica 1/2002 de 22 marzo y demás disposiciones
+la vigente Ley Orgánica 1/2002 de 22 de marzo y demás disposiciones
 complementarias.
 
 ## **Capítulo II. Objetivos, actividades y medios.**
@@ -143,7 +76,7 @@ e)  Creación de espacios en Internet que sirvan a los fines de esta
     Asociación.
 
 f)  Otros proyectos que repercutan en la consecución de los fines de la
-    Asociación
+    Asociación.
 
 ## **Capítulo III. Estructura organizativa.**
 
@@ -162,17 +95,17 @@ de presidente y secretario de la Asamblea serán ocupados por los
 correspondientes cargos de la Junta Directiva.
 
 La asistencia a la Asamblea General será personal o por representación
-legal o voluntaria bastando acreditar ésta un escrito o documento
+legal o voluntaria bastando acreditar ésta mediante un escrito o documento
 firmado por el socio y entregado a un asistente de su confianza,
 pudiendo contener instrucciones precisas que serán leídas al inicio de
 la Asamblea.
 
 Siempre que la tecnología garantice por medios telemáticos
-(videoconferencia), los miembros que asistan de manera telemática poseen
+(videoconferencia), los miembros que asistan de manera telemática poseen los
 mismos derechos que los miembros en presencia física en la Asamblea,
 (autentificación, secreto del voto en aquellas votaciones que lo
 requieran, ...), y a juicio de la mayoría absoluta de los miembros de la
-Junta Directiva, será aceptada la asistencia por medios telemáticos.
+Junta Directiva, será aceptada la asistencia por medios telemáticos. Estos medios serán detallados en la normativa interna, a falta de una normativa interna que lo regule, se emplearán las directrices establecidas según el Estado español.
 
 ### **Artículo 10. Convocatoria.**
 
@@ -199,7 +132,7 @@ a)  Elegir a los miembros de la Junta Directiva.
 
 b)  Aprobar el estado de cuentas del ejercicio anterior.
 
-c)  Modificar los Estatutos a propuesta de la Junta Directiva
+c)  Modificar los Estatutos a propuesta de la Junta Directiva.
 
 d)  Acordar a propuesta de la Junta Directiva y mediante referéndum, la
     disolución de la Asociación.
@@ -224,13 +157,13 @@ miembros del grupo, y el nombre de un segundo responsable del grupo, si
 fuese posible. Los coordinadores podrán fijar objetivos, siempre dentro
 de los fines de la Asociación y plazos para la consecución de estos.
 Para la total constitución del grupo de trabajo, este ha de ser validado
-por algún miembro de la administración designado para esta labor siendo por defecto el vicepresidente, o por
+por algún miembro de la administración designado para esta labor, siendo por defecto el vicepresidente, o por
 el presidente, todo esto tras haber presentado la documentación que se
 haya establecido necesaria para la constitución del grupo de trabajo.
 
 Para la resolución de cualquier conflicto dentro de los Grupos de
 Trabajo, sus miembros se atienen a la Junta Directiva, la cual, una vez
-escuchada las alegaciones de las partes, podrán tomar acciones
+escuchadas las alegaciones de las partes, podrá tomar acciones
 pertinentes.
 
 ### **Artículo 13. Secciones Técnicas.**
@@ -249,13 +182,13 @@ los servicios telemáticos de la Asociación).
 Sin perjuicio de las facultades de la Asamblea General, la Asociación
 estará representada por una Junta Directiva, que estará formada por:
 
-1.  Presidente
+1.  Uno o dos Presidentes.
 
-2.  Vicepresidente
+2.  Un Vicepresidente
 
-3.  Secretario
+3.  Un Secretario
 
-4.  Tesorero
+4.  Un Tesorero
 
 5.  6 vocales. Dicho número podrá ser aumentado o disminuido, para
     adecuarlo a las circunstancias tales como las variaciones en el
@@ -264,13 +197,13 @@ estará representada por una Junta Directiva, que estará formada por:
 Todos ellos han de ser socios de la Asociación.
 
 Varios cargos se podrán otorgar a una misma persona, ya sea por falta de
-interesados o porque así lo presenta la candidatura. El cargo de
-presidente, vicepresidente son los únicos cargos que no se podrán
-recoger en una misma persona. Los vocales serán también independientes a
+interesados o porque así lo presenta la candidatura. Los cargos de
+presidente y vicepresidente son los únicos cargos que no se podrán
+recoger en una misma persona. Los vocales serán también independientes de
 los otros cargos, no pudiendo así ser vocal y ostentar otro cargo.
 
-El cargo de presidente se podrá otorgar a dos personas que compartirán
-derecho y deberes del cargo al 50% cada uno. En caso de que haya
+El cargo de presidente de forma excepcional, bajo consentimiento de la junta directiva se podrá otorgar a dos personas que compartirán
+derechos y deberes del cargo al 50% cada uno. En caso de que haya
 discrepancias entre aquellos que ostentan el cargo de esta forma, una
 comisión formada por los miembros restantes de la Junta Directiva
 lidiará entre ellos.
@@ -279,7 +212,7 @@ lidiará entre ellos.
 
 Es competencia de la Junta Directiva lo siguiente:
 
-a)  Proponer la modificación de los presentes estatutos única y
+a)  Proponer la modificación de los presentes Estatutos única y
     exclusivamente por acuerdo adoptado en la junta extraordinaria
     convocada al efecto, y con una mayoría igual o superior a tres
     cuartos de los miembros de la Junta Directiva.
@@ -304,7 +237,7 @@ g)  Creación de tantas Secciones Técnicas y Grupos de Trabajo como
     considere, para mejor funcionamiento de la Asociación, así como el
     nombramiento y cese del coordinador de cada Sección Técnica.
 
-h)  Elaboración y aprobación por mayoría absoluta del Reglamento de
+h)  Elaboración y aprobación por mayoría absoluta de la Normativa de
     Funcionamiento Interno.
 
 i)  Lectura y aprobación de las actas de la Junta Directiva anterior, de
@@ -330,12 +263,12 @@ días naturales.
 
 La asistencia a la Junta Directiva será personal o mediante cualquier
 medio telemático que acuerde válido por mayoría absoluta la Junta
-Directiva.
+Directiva. Estos medios serán detallados en la normativa interna, a falta de una normativa interna que lo regule, se emplearán las directrices establecidas según el Estado español.
 
 ### **Artículo 18.**
 
 Los candidatos a la Junta Directiva serán elegidos democráticamente por
-mayor número de votos en asamblea general y tendrán una duración de dos
+mayor número de votos en Asamblea General y tendrán una duración de dos
 años sin límite de elección.
 
 ### **Artículo 19. Sustitución en caso de vacantes.**
@@ -348,7 +281,7 @@ años sin límite de elección.
     la Junta Directiva podrá nombrar por mayoría absoluta a cualquier
     otro socio que lo acepte voluntariamente.
 
--   En caso de vacante del Presidente, será el Vicepresidente quién
+-   En caso de vacante del Presidente, será el Vicepresidente quien
     ocupará su cargo hasta las siguientes elecciones, y si éste no
     existiera, sería elegido un nuevo Presidente por la Junta Directiva
     en un plazo máximo de un mes.
@@ -375,9 +308,9 @@ b)  Convocar y presidir las reuniones de la Junta Directiva y la
 c)  Cumplir y hacer cumplir los acuerdos de la Junta Directiva y la
     Asamblea General.
 
-d)  Velar por el exacto cumplimiento de los estatutos.
+d)  Velar por el exacto cumplimiento de los Estatutos.
 
-e)  Autorizar con su forma las actas, certificaciones y demás documentos
+e)  Autorizar con su firma las actas, certificaciones y demás documentos
     oficiales de la Asociación, y que normalmente expedirá el
     Vicepresidente/Tesorero.
 
@@ -397,7 +330,7 @@ los acuerdos. Asimismo se encargará de coordinar los grupos de trabajos y si fu
 
 ### **Artículo 22. El Tesorero.**
 
-El tesorero (o co-tesoreros) tendrá bajo su responsabilidad el funcionamiento económico
+El Tesorero tendrá bajo su responsabilidad el funcionamiento económico
 de la Asociación, y lo ejecutará:
 
 a)  Teniendo bajo su custodia todos los fondos de la Asociación.
@@ -419,11 +352,9 @@ f)  Redactando los presupuestos, los estados de cuentas y los balances.
 
 g)  Cualquier otra función inherente a su condición de Tesorero.
 
-
-
 ### **Artículo 23. El Secretario.**
 
-El secretario (o co-secretarios) tendrá bajo su responsabilidad el funcionamiento
+El Secretario tendrá bajo su responsabilidad el funcionamiento
 administrativo de la Asociación, y lo ejecutará:
 
 a)  Asistir a las sesiones de la Junta Directiva y Asamblea General,
@@ -431,7 +362,7 @@ a)  Asistir a las sesiones de la Junta Directiva y Asamblea General,
 
 b)  Efectuar las convocatorias de las sesiones de la Junta Directiva y
     Asamblea, por orden del Presidente, así como las citaciones de los
-    miembros de aquélla y socios de ésta.
+    miembros de aquella y socios de esta.
 
 c)  Dar cuenta inmediata al Presidente de la solicitud de convocatoria
     efectuada por los socios en la forma prevista en el artículo 9º de
@@ -459,10 +390,8 @@ h)  Cualquier otra función inherente a su condición de Secretario.
 En los casos de ausencia o enfermedad y, en general, cuando concurra
 alguna causa justificada, el Secretario será sustituido por el
 Vicepresidente, y en ausencia de éste por el Vocal de mayor antigüedad
-dentro de la asociación, de haber dos inscritos en la misma fecha se
+dentro de la Asociación, de haber dos inscritos en la misma fecha se
 elegirá alfabéticamente.
-
-
 
 ### **Artículo 24. Los Vocales.**
 
@@ -500,7 +429,7 @@ internacional siempre que mantengan la existencia de la Asociación.
 ### **Artículo 27. Admisión.**
 
 Para adquirir la condición de asociado el interesado deberá ser miembro
-de la Universidad de Sevilla.
+de la Universidad de Sevilla, incluyendo a estudiantes, personal docente e investigador (PDI) y personal de administración y servicios (PAS), incluyendo a aquellos procedentes de programas de intercambio académico de carácter nacional e internacional, así como cumplir los requisitos que, en su caso, se establezcan en la Normativa de Funcionamiento Interno.
 
 ### **Artículo 28. Pérdida de la condición de asociado.**
 
@@ -519,15 +448,19 @@ de las condiciones siguientes:
     miembros egresados que decidan mantener su estatus como antiguo
     miembro.
 
--   Por falta de actividad alguna dentro de la Asociación, durante un
-    período mayor a un año. Para ello, previamente a esta decisión, se
-    abrirá un expediente que instruirá el secretario de la junta
-    directiva con los cargos existentes contra el asociado a quién se le
+-   En el caso de los estudiantes, PDI y PAS procedentes de programas de intercambio, 
+    perderán dicha condición al finalizar el programa; podrán, no obstante, optar a la condición de miembro egresado.
+
+-   Por falta de actividad alguna dentro de la Asociación, durante un período mayor a un año. Para ello, previamente a esta decisión, se
+    abrirá un expediente que instruirá el Secretario de la Junta
+    Directiva con los cargos existentes contra el asociado a quien se le
     dará traslado por término de 8 días hábiles, para que por escrito
     alegue todo cuanto a su derecho conviniere; pasado este plazo el
-    secretario remitirá el expediente a la junta directiva, sin
+    Secretario remitirá el expediente a la Junta Directiva, sin
     posterior recurso, debiéndose dar cumplimiento de su decisión
     inmediatamente, previa comunicación al interesado.
+
+-   Por incumplimiento de sus obligaciones económicas.
 
 ### **Artículo 29. Derechos del asociado.**
 
@@ -537,7 +470,7 @@ excepción de los miembros egresados:
 -   Formar parte de las Asambleas Generales con voz y, siempre que sean
     mayores de edad, con voto.
 
--   Pueden ser elegidos miembros de la Junta Directiva de la
+-   Ser elegidos miembros de la Junta Directiva de la
     Asociación, siempre que sean mayores de edad.
 
 -   Disfrutar de todos los beneficios de la Asociación.
@@ -553,24 +486,26 @@ excepción de los miembros egresados:
     Directiva que, en su opinión, sean contrarios a los presentes
     Estatutos o lesionen los intereses de la Asociación.
 
-### **Artículo 30.**
+### **Artículo 30. Deberes del asociado.**
 
-Deberes del asociado Constituyen deberes de los miembros de la
+Constituyen deberes de los miembros de la
 Asociación:
 
--   Respetar los presentes Estatutos,el Reglamento de Funcionamiento
+-   Respetar los presentes Estatutos, la Normativa de Funcionamiento
     Interno y el Código de Conducta que determine la Asociación.
 
 -   Desempeñar y asistir a las obligaciones del cargo para el que fue
     elegido.
 
+-  Abonar las cuotas de socio que, en su caso, se establezcan.
+
 ### **Artículo 31. Miembro egresado.**
 
 Los miembros egresados son aquellos que en el transcurso de su
-pertenencia a la asociación dejan de ser miembros de la comunidad de la
-Universidad de Sevilla. A estos se les presenta oportunidad de ostentar
-el título de miembro egresado. Este está sujeto a la toda la normativa
-vigente aplicable para asociados a excepción del Artículo 29.
+pertenencia a la Asociación dejan de ser miembros de la comunidad de la
+Universidad de Sevilla. A estos se les presenta la oportunidad de ostentar
+el título de miembro egresado. Este está sujeto a toda la normativa
+vigente aplicable para asociados a excepción del artículo 29.
 
 Los derechos de los miembros egresados son:
 
@@ -606,7 +541,9 @@ Presupuesto Anual. Su patrimonio fundacional es de 0 €.
 Los medios económicos para atender sus fines serán los
 siguientes:
 
--   Las aportaciones voluntarias
+-   Las aportaciones voluntarias.
+
+-   Las cuotas de socio, (de establecerse).
 
 -   Los ingresos del patrimonio que pueda poseer.
 
@@ -618,7 +555,7 @@ siguientes:
 -   Herencias y legados con que pueda ser favorecida.
 
 -   Otros que pudieran ingresar respetando el carácter y los fines de
-    la asociación.
+    la Asociación.
 
 ### **Artículo 35.**
 
@@ -630,15 +567,15 @@ aprobación.
 ### **Artículo 36.**
 
 El límite del presupuesto anual se estima en el momento de la fundación
-en 50.000 Euros, ampliable por la Asamblea General. El ejercicio
-comenzará el 1 de Octubre y concluirá el 30 de Septiembre del año
+en 50.000 euros, ampliable por la Asamblea General. El ejercicio
+comenzará el 1 de octubre y concluirá el 30 de septiembre del año
 siguiente.
 
 ### **Artículo 37.**
 
 Todo lo relativo a la infraestructura de la organización y que no se
-considere en los presentes Estatutos, podrá ser regulado en el
-Reglamento de Funcionamiento interno.
+considere en los presentes Estatutos, podrá ser regulado en la
+Normativa de Funcionamiento Interno.
 
 ## **Capítulo VIII. Disolución.**
 
@@ -651,7 +588,7 @@ La Asociación se disolverá debido a las siguientes causas:
     por tres cuartos de los asistentes a la Asamblea General
     Extraordinaria. El acuerdo será válido siempre que los asistentes
     superen en la segunda convocatoria un mínimo del 25% de los socios y
-    sin perjuicio de que el Reglamento de Funcionamiento Interno
+    sin perjuicio de que la Normativa de Funcionamiento Interno
     establezca un porcentaje mayor.
 
 -   Por sentencia judicial.
@@ -691,6 +628,15 @@ en la legislación vigente en ese momento.
 
 Los asociados estarán obligados a cumplir la normativa legal vigente en
 el momento, teniendo derecho a desarrollar las actividades normales
-llevadas a cabo para alcanzar los fines de la asociación y a disfrutar
+llevadas a cabo para alcanzar los fines de la Asociación y a disfrutar
 de los beneficios que ésta ofrece siempre y cuando no incumplan ninguna
 de las leyes establecidas en la legislación vigente en ese momento.
+
+## **Disposiciones adicionales**
+### **Primera**
+Todas las denominaciones que en los presentes Estatutos se efectúan en género masculino (Presidente, Vicepresidente, Secretario, Tesorero, Vocal, socio, asociado, miembro, etc.) se entenderán realizadas de forma genérica, refiriéndose indistintamente a personas de cualquier género.
+### **Segunda**
+En toda mención en los presentes Estatutos a la comunicación por escrito
+se entienden válidos tanto la comunicación tradicional, como el uso del correo
+electrónico, y como público el anuncio en la página web y/o tablones de la
+asociación
